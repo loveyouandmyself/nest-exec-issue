@@ -1,7 +1,11 @@
+## Installation
 
+```bash
+$ yarn --registry https://registry.npmmirror.com install
+```
 ## Issue Description
 
 ```bash
-# running --exec
-$ npm run start:issue
+# use --exec
+$ yarn start:issue
 ```
